@@ -19,3 +19,6 @@ For this analysis, I began by creating a correlation matrix, which showed that t
 A residual plot was created using the residual table generated, and scatterplots were also created to show the relationship between the statistically significant independent variables and the dependent variable. Then all the visualizations were compiled into one dashboard to give the university a better overview of the analysis.
 
 **[Read full documentation with results on Medium](https://medium.com/@imanjokko/linear-regression-for-admission-prediction-a-competitive-strategy-case-study-ca4d1e9ed071)**
+
+[Click here to insert students' variables and predict chance of admission in Microsoft Excel.](https://1drv.ms/x/s!AktrPK7pllqDgSEpronHdqlMbpsV)
+
